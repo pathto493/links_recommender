@@ -1,0 +1,7 @@
+{
+  "model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+  "catalog_sha256": "0f588bf1ab7b6de8070ed39b267bb3577a396d7bbbf9613db1b72b1e53d71af8",
+  "video_count": 1225,
+  "dimensions": 384,
+  "index_format": "normalized-f32-cosine-v1"
+}
